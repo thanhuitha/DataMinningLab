@@ -120,6 +120,7 @@ if option =='discretize':
 							count +=1
 							df[c] = df[c].replace(value,'['+str(min_bin)+' '+str(max_bin)+']')
 							f.write('<'+'['+str(min_bin)+' '+str(value)+']>:'+str(count))
+							break
 						if value >= min_bin and value < max_bin:
 							count +=1
 							df[c] = df[c].replace(value,'['+str(min_bin)+' '+str(max_bin)+')')
