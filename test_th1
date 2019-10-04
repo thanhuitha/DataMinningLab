@@ -1,0 +1,21 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,>50k or <= 50k
+49, Federal-gov,195949,?,9, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,0,0,40, United-States, <=50K
+48, Private,?,?,7, Divorced, Other-service, Not-in-family,?, Female,0,0,31, United-States, <=50K
+36, Local-gov,51424, HS-grad,9, Divorced, Adm-clerical, Unmarried, White, Female,0,0,40, United-States, <=50K
+50, Self-emp-not-inc,?, Some-college,10, Divorced, Exec-managerial, Unmarried, Asian-Pac-Islander, Female,0,0,40,?, <=50K
+29, Private,413297, Assoc-acdm,12, Never-married, Sales, Not-in-family, White, Male,0,0,45, Mexico, <=50K
+17, ?,64785, 10th,6, Never-married,?, Own-child, White, Male,0,0,30,?, <=50K
+27, Self-emp-not-inc,30244, HS-grad,9, Never-married, Farming-fishing, Own-child, White, Male,0,0,80, United-States, <=50K
+33, Private,106976, HS-grad,9, Divorced, Other-service, Unmarried, White, Female,0,0,?, United-States, <=50K
+41, Local-gov,137142, Some-college,10, Married-civ-spouse, Sales, Husband, White, Male,0,0,40, United-States, <=50K
+?, Private,373935, HS-grad,9, Never-married, Handlers-cleaners, Own-child, White, Male,0,0,35, United-States, <=50K
+40, Private,224232, Bachelors,13, Married-civ-spouse,?, Husband, White, Male,0,0,40, United-States, >50K
+?, Private,71475, Some-college,10,?, Adm-clerical, Own-child, White, Female,0,0,40, United-States, <=50K
+51, Self-emp-not-inc,388496, Some-college,10, Divorced, Craft-repair, Not-in-family, White, Male,0,0,8, Puerto-Rico, >50K
+65, Private,154171, Prof-school,15, Married-civ-spouse, Prof-specialty, Husband, White, Male,20051,0,60, United-States, >50K
+36, Private,187098, HS-grad,9,?, Adm-clerical, Unmarried, White, Female,0,0,40, United-States, <=50K
+46, Private,337050, Masters,14, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,1977,45, United-States, >50K
+43, Private,174196, HS-grad,9, Never-married,?, Unmarried,?, Female,0,0,40, United-States, <=50K
+64,?,236341, 5th-6th,3, Widowed, Other-service, Not-in-family, Black, Female,0,0,16, United-States, <=50K
+56, Private,101128, Assoc-acdm,12, Married-spouse-absent, Other-service, Not-in-family, White, Male,0,0,25, Iran, <=50K
+25, Private,34803, Bachelors,?, Never-married, Exec-managerial, Own-child, White, Female,0,0,20, United-States,?
