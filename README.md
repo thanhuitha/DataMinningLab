@@ -1,5 +1,5 @@
-# Pre-ProcessingData-with-Pandas
-PreprocessingData with Pandas
+# Preprocessing of the data using Pandas
+Preprocessing of the data using Pandas
 
 # Requirement
 - python 3.x
