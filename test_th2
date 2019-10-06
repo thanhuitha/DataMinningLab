@@ -1,6 +1,6 @@
 age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,>50k or <= 50k
-41, ?,202822, HS-grad,9, Separated, ?, Not-in-family, Black, Female,0,0,32, United-States, <=50K
-72, ?,129912, HS-grad,9, Married-civ-spouse, ?, Husband, White, Male,0,0,25, United-States, <=50K
+41,?,202822, HS-grad,9, Separated,?, Not-in-family, Black, Female,0,0,32, United-States, <=50K
+72,?,129912, HS-grad,9, Married-civ-spouse,?, Husband, White, Male,0,0,25, United-States, <=50K
 45, Local-gov,119199, Assoc-acdm,12, Divorced, Prof-specialty, Unmarried, White, Female,0,0,48, United-States, <=50K
 31, Private,199655, Masters,14, Divorced, Other-service, Not-in-family, Other, Female,0,0,30, United-States, <=50K
 39, Local-gov,111499, Assoc-acdm,12, Married-civ-spouse, Adm-clerical, Wife, White, Female,0,0,20, United-States, >50K
